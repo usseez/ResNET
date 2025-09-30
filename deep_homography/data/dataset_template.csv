@@ -1,0 +1,3 @@
+reference_image_path,tilted_image_path,ref_point1_x,ref_point1_y,ref_point2_x,ref_point2_y,ref_point3_x,ref_point3_y,ref_point4_x,ref_point4_y,tilted_point1_x,tilted_point1_y,tilted_point2_x,tilted_point2_y,tilted_point3_x,tilted_point3_y,tilted_point4_x,tilted_point4_y
+/path/to/reference/image1.jpg,/path/to/tilted/image1.jpg,100,100,300,100,300,200,100,200,95,105,305,95,295,205,105,195
+/path/to/reference/image2.jpg,/path/to/tilted/image2.jpg,150,150,350,150,350,250,150,250,145,155,355,145,345,255,155,245
